@@ -37,5 +37,3 @@ The primary objectives are to clean, preprocess, and analyze the data to extract
 - Explore advanced visualizations to present findings interactively.
 - Apply feature engineering for better interpretation of key metrics.
 
-## Contact
-For further information or suggestions, feel free to reach out via email at **[Your Email Here]**.
